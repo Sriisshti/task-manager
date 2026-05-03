@@ -1,10 +1,10 @@
-# 🚀 TaskFlow — Team Task Manager
+#  TaskFlow — Team Task Manager
 
 A full-stack Team Task Manager with Role-Based Access Control (Admin/Member), built with HTML, CSS, JavaScript, Node.js, Express, and SQLite.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -16,7 +16,7 @@ A full-stack Team Task Manager with Role-Based Access Control (Admin/Member), bu
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Authentication** — Signup / Login with JWT tokens
 - **Role-Based Access** — Admin (full control) vs Member (view + update own tasks)
@@ -28,7 +28,7 @@ A full-stack Team Task Manager with Role-Based Access Control (Admin/Member), bu
 
 ---
 
-## 🔐 Demo Accounts
+##  Demo Accounts
 
 | Email | Password | Role |
 |-------|----------|------|
@@ -37,7 +37,7 @@ A full-stack Team Task Manager with Role-Based Access Control (Admin/Member), bu
 
 ---
 
-## 💻 Local Setup
+##  Local Setup
 
 ```bash
 # 1. Clone or extract the project
@@ -57,7 +57,7 @@ npm run dev
 
 ---
 
-## 🚂 Deploy to Railway
+##  Deploy to Railway
 
 ### Step 1: Push to GitHub
 ```bash
@@ -86,7 +86,7 @@ That's it! Your app will be live in ~2 minutes.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 task-manager/
@@ -111,7 +111,7 @@ task-manager/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Auth
 - `POST /api/auth/signup` — Register new user
@@ -140,13 +140,6 @@ task-manager/
 - `GET /api/users/me` — Current user profile
 - `DELETE /api/users/:id` — Delete user
 
----
 
-## 🎥 Demo Video Tips (2–5 min)
-1. Show login as Admin → Dashboard
-2. Create a new Project
-3. Add tasks with different priorities
-4. Assign tasks to member
-5. Login as Member → show restricted access
-6. Member updates task status
-7. Show Kanban board and progress
+
+
