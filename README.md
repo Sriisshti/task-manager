@@ -150,7 +150,3 @@ task-manager/
 5. Login as Member → show restricted access
 6. Member updates task status
 7. Show Kanban board and progress
-
----
-
-Made with ❤️ for college project
